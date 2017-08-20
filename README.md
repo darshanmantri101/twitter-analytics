@@ -2,9 +2,11 @@
 Develop an analytics application for twitter. Given a twitter handle, give graphs that show how often the person tweets and the time at which he/she tweets. The same should be available for the retweets and favs the person gets. One should be able to analyse historical tweets of the user and identify key days of the week and time range in which he/she tweets more, and when his/her tweets get faved/ReTweeted more
 
 Install all packages from requirements.txt:
+
 1) pip3 install -r requirements.txt
 
 Enter the twitter username(Ex:@iamsrk) in python file in line 221 and execute python file.
+
 2) python3 twitter_analytics.py
 
 You are done!!!!!!!!
