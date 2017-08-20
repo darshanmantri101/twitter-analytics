@@ -1,0 +1,2 @@
+# twitter-analytics
+Develop an analytics application for twitter. Given a twitter handle, give graphs that show how often the person tweets and the time at which he/she tweets. The same should be available for the retweets and favs the person gets. One should be able to analyse historical tweets of the user and identify key days of the week and time range in which he/she tweets more, and when his/her tweets get faved/ReTweeted more
