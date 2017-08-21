@@ -13,15 +13,15 @@ You are done!!!!!!!!
 
 **Go To : http://exceltechserve.in/exceltechserve.in/ and here you are with the graphs and charts.**
 
-1. Frequency Analysis : How often the person tweets. The same is available for the retweets and favs the person gets.
-2. Hourly Analysis : Based on the historical data, it gives the hour and number of tweets/favs/retweets in that hour.
-3. Time-Range Analysis: Time range in which he/she tweets more, and when his/her tweets get faved/ReTweeted more.
+1.**Frequency Analysis** : How often the person tweets. The same is available for the retweets and favs the person gets.
+2.**Hourly Analysis** : Based on the historical data, it gives the hour and number of tweets/favs/retweets in that hour.
+3.**Time-Range Analysis**: Time range in which he/she tweets more, and when his/her tweets get faved/ReTweeted more.
     => Early Morning: 3 AM to 6:59 AM
     => Morning: 7 AM to 11:59 AM
     => Afternoon: 12 PM to 4:59 PM
     => Night: 5 PM to 3 AM
     
- 4. Day Wise Analysis: The key days of the week in which he/she tweets more, and when his/her tweets get faved/ReTweeted more.
+ 4.**Day Wise Analysis**: The key days of the week in which he/she tweets more, and when his/her tweets get faved/ReTweeted more.
  
  
  *Note: 3200 is the maximum number of tweets you can retrieve from the REST API for a given user.*
