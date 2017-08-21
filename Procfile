@@ -1,1 +1,1 @@
-web: python3 twitter_analytics.py
+bot: python3 twitter_analytics.py
