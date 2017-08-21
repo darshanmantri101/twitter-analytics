@@ -15,7 +15,6 @@ import requests
 import ftplib
 import os
 
-
 #To upload file on remote server via FTP
 def upload(ftp, file):
     ext = os.path.splitext(file)[1]
@@ -23,8 +22,6 @@ def upload(ftp, file):
         ftp.storlines("STOR " + file, open(file))
     else:
         ftp.storbinary("STOR " + file, open(file, "rb"), 1024)
-
-
 
 #connecting to mysql DB
 conn =  MySQLdb.connect(db="excelv6b_twitter_data", user="excelv6b_root", passwd="excel", host="exceltechserve.in")
@@ -212,8 +209,6 @@ def get_all_tweets(screen_name):
     print("Done")
     
     #file=json.dumps(result,cls=DateTimeEncoder)
-
-    
 
 if __name__ == '__main__':
     
