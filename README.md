@@ -13,7 +13,7 @@ You are done!!!!!!!!
 
 **Go To : http://exceltechserve.in/exceltechserve.in/ and here you are with the graphs and charts.**
 
-1.**Frequency Analysis** : How often the person tweets. The same is available for the retweets and favs the person gets.<br />
+1.**Frequency Analysis** :Distribution of how often the person tweets. The same is available for the retweets and favs the person gets.<br />
 2.**Hourly Analysis** : Based on the historical data, it gives the hour and number of tweets/favs/retweets in that hour.<br />
 3.**Time-Range Analysis**: Time range in which he/she tweets more, and when his/her tweets get faved/ReTweeted more.<br />
     => Early Morning: 3 AM to 6:59 AM
