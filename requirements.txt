@@ -29,5 +29,5 @@ requests-oauthlib==0.8.0
 setupfiles==0.0.50
 six==1.10.0
 tweepy
-urllib3==1.22
+urllib3==1.26.5
 XlsxWriter==0.9.8
